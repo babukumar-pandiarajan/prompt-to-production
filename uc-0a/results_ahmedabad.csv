@@ -1,0 +1,16 @@
+complaint_id,category,priority,reason,flag
+AM-202401,Other,Standard,The description reads 'Tarmac surface melting at 44°C.' but does not clearly match a known category.,NEEDS_REVIEW
+AM-202402,Other,Standard,The description reads 'Metal bus shelter reaching dangerous' but does not clearly match a known category.,NEEDS_REVIEW
+AM-202405,Other,Standard,The description reads 'Dead trees with split branches.' but does not clearly match a known category.,NEEDS_REVIEW
+AM-202406,Heat Hazard,Standard,"The description contains 'heat', indicating a heat hazard complaint.",
+AM-202407,Other,Urgent,The description reads 'Broken bench and upturned paving.' but does not clearly match a known category.,NEEDS_REVIEW
+AM-202410,Pothole,Standard,"The description contains 'pothole', indicating a pothole complaint.",
+AM-202414,Other,Standard,The description reads 'Residential colony unlit after 9pm.' but does not clearly match a known category.,NEEDS_REVIEW
+AM-202417,Waste,Standard,"The description contains 'waste', indicating a waste complaint.",
+AM-202421,Other,Standard,The description reads 'Club music audible at residential' but does not clearly match a known category.,NEEDS_REVIEW
+AM-202424,Other,Standard,The description reads 'Zoo approach road surface bubbling' but does not clearly match a known category.,NEEDS_REVIEW
+AM-202429,Other,Standard,The description reads 'River walk surface temperature unbearable.' but does not clearly match a known category.,NEEDS_REVIEW
+AM-202431,Heritage Damage,Standard,"The description contains 'heritage', indicating a heritage damage complaint.",
+AM-202435,Heat Hazard,Standard,"The description contains 'heat', indicating a heat hazard complaint.",
+AM-202444,Waste,Standard,"The description contains 'waste', indicating a waste complaint.",
+AM-202445,Other,Standard,The description reads 'BRT shelter roof glass broken.' but does not clearly match a known category.,NEEDS_REVIEW

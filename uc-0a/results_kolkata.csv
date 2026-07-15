@@ -1,0 +1,16 @@
+complaint_id,category,priority,reason,flag
+KM-202401,Streetlight,Standard,"The description contains 'lamp post', indicating a streetlight complaint.",
+KM-202402,Other,Standard,The description reads 'Historic tram road cobblestones broken' but does not clearly match a known category.,NEEDS_REVIEW
+KM-202405,Other,Standard,The description reads 'Wedding band playing near Tagore' but does not clearly match a known category.,NEEDS_REVIEW
+KM-202409,Pothole,Standard,"The description contains 'pothole', indicating a pothole complaint.",
+KM-202410,Pothole,Standard,"The description contains 'pothole', indicating a pothole complaint.",
+KM-202411,Pothole,Standard,"The description contains 'pothole', indicating a pothole complaint.",
+KM-202415,Drain Blockage,Standard,"The description contains 'drain', indicating a drain blockage complaint.",
+KM-202418,Waste,Standard,"The description contains 'waste', indicating a waste complaint.",
+KM-202421,Other,Urgent,The description reads 'Footpath broken and sinking. Elderly' but does not clearly match a known category.,NEEDS_REVIEW
+KM-202422,Other,Standard,The description reads 'Road surface buckled near bridge.' but does not clearly match a known category.,NEEDS_REVIEW
+KM-202426,Heritage Damage,Standard,"The description contains 'heritage', indicating a heritage damage complaint.",
+KM-202430,Other,Standard,The description reads 'Road subsided near gas pipeline.' but does not clearly match a known category.,NEEDS_REVIEW
+KM-202434,Heritage Damage,Standard,"The description contains 'heritage', indicating a heritage damage complaint.",
+KM-202436,Other,Standard,The description reads 'Entire colony substation tripped. Darkness' but does not clearly match a known category.,NEEDS_REVIEW
+KM-202438,Heritage Damage,Standard,"The description contains 'heritage', indicating a heritage damage complaint.",

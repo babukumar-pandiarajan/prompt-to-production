@@ -1,0 +1,16 @@
+complaint_id,category,priority,reason,flag
+GH-202401,Flooding,Urgent,"The description contains 'flood', indicating a flooding complaint.",
+GH-202402,Flooding,Standard,"The description contains 'flood', indicating a flooding complaint.",
+GH-202406,Waste,Standard,"The description contains 'debris', indicating a waste complaint.",
+GH-202407,Drain Blockage,Standard,"The description contains 'drain', indicating a drain blockage complaint.",
+GH-202410,Pothole,Standard,"The description contains 'pothole', indicating a pothole complaint.",
+GH-202411,Pothole,Urgent,"The description contains 'pothole', indicating a pothole complaint.",
+GH-202412,Pothole,Urgent,"The description contains 'pothole', indicating a pothole complaint.",
+GH-202417,Waste,Standard,"The description contains 'garbage', indicating a waste complaint.",
+GH-202420,Other,Standard,The description reads 'Construction drilling from 5am daily' but does not clearly match a known category.,NEEDS_REVIEW
+GH-202422,Pothole,Urgent,"The description contains 'crater', indicating a pothole complaint.",
+GH-202424,Flooding,Standard,"The description contains 'flood', indicating a flooding complaint.",
+GH-202428,Waste,Standard,"The description contains 'waste', indicating a waste complaint.",
+GH-202432,Other,Standard,The description reads '24hr supermarket delivery trucks idling' but does not clearly match a known category.,NEEDS_REVIEW
+GH-202448,Flooding,Standard,"The description contains 'flood', indicating a flooding complaint.",
+GH-202438,Other,Standard,The description reads 'Colony surrounded by fields that' but does not clearly match a known category.,NEEDS_REVIEW
